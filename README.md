@@ -35,10 +35,6 @@ Se deseja contribuir, siga estas etapas:
 4. Faça push para a branch (`git push origin feature/nome-da-feature`).
 5. Abra um pull request.
 
-## Licença
-
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## Autor
 
 Mateus Sales - [Mateusalles](https://github.com/Mateusalles)
