@@ -1,3 +1,11 @@
+# Landing Page 'Portfólio' da Escola DNC
+
+Bem-vindo aa minha Landing Page de Estudos da Escola DNC! Este projeto é parte da minha formação em tecnologia e foi desenvolvido utilizando HTML5 e CSS.
+
+## Demonstração
+
+[Visualizar o Portfólio](https://lp-portifolio-escola-dnc.netlify.app)
+
 ## Como Usar
 
 1. **Clone o repositório:**
